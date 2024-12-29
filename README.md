@@ -1,0 +1,14 @@
+# aosp_arm64-user 15 BP11.241121.010 12780007 release-keys
+- manufacturer: android
+- platform: 
+- codename: generic
+- flavor: aosp_arm64-user
+- release: 15
+- id: BP11.241121.010
+- incremental: 12780007
+- tags: release-keys
+- fingerprint: Android/aosp_arm64/generic_arm64:15/BP11.241121.010/12780007:user/release-keys
+- is_ab: false
+- brand: Android
+- branch: aosp_arm64-user-15-BP11.241121.010-12780007-release-keys
+- repo: android_generic_dump
